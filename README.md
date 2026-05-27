@@ -235,3 +235,5 @@ Flujo recomendado:
 ---
 
 Desarrollado para presencia digital legal en Itagüí, Antioquia, con enfoque en confianza de marca y conversión de contactos.
+
+Ultima actualizacion: 2026-05-27.
